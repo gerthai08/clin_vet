@@ -1,0 +1,12 @@
+com\clinica_veterinaria\controller\DuenioController.class
+com\clinica_veterinaria\service\IDuenioService.class
+com\clinica_veterinaria\service\IMascotaService.class
+com\clinica_veterinaria\repository\IDuenioRepository.class
+com\clinica_veterinaria\ClinicaVeterinariaApplication.class
+com\clinica_veterinaria\model\Mascota.class
+com\clinica_veterinaria\model\Duenio.class
+com\clinica_veterinaria\service\DuenioService.class
+com\clinica_veterinaria\service\MascotaService.class
+com\clinica_veterinaria\dto\MascoDuenioDTO.class
+com\clinica_veterinaria\controller\MascotaController.class
+com\clinica_veterinaria\repository\IMascotaRepository.class
